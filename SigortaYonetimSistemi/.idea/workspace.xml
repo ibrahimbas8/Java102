@@ -1,7 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="28727178-c1f7-43d4-ad32-4822cdd21678" name="Default Changelist" comment="" />
+    <list default="true" id="2b7a7b1d-7b08-4dff-9290-842c7e2121c8" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/com/company/Accoount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/AccountManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/AccountType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/Address.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/AddressManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/AuthenticationStatus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/BusinessAddress.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/CarInsurance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/Enterprise.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/HealthInsurance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/HomeAddress.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/Individual.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/Insurance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/InvalidAuthenticationException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/Login.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/ResidenceInsurance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/TravelInsurance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,15 +38,7 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="GitSEFilterConfiguration">
-    <file-type-list>
-      <filtered-out-file-type name="LOCAL_BRANCH" />
-      <filtered-out-file-type name="REMOTE_BRANCH" />
-      <filtered-out-file-type name="TAG" />
-      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
-    </file-type-list>
-  </component>
-  <component name="ProjectId" id="1xigWAxb7StRSOBP10tiy9MR83t" />
+  <component name="ProjectId" id="2Bw2qrtqdfExrpSOiQ1fLmNSurf" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
@@ -87,11 +99,6 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">
-    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-  </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="com.company.Main" />
@@ -99,6 +106,19 @@
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="SigortaYonetimSistemi" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="SigortaYonetimSistemi" />
+      <option name="filePath" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -112,11 +132,11 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="28727178-c1f7-43d4-ad32-4822cdd21678" name="Default Changelist" comment="" />
-      <created>1630844645587</created>
+      <changelist id="2b7a7b1d-7b08-4dff-9290-842c7e2121c8" name="Default Changelist" comment="" />
+      <created>1657803027911</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1630844645587</updated>
+      <updated>1657803027911</updated>
     </task>
     <servers />
   </component>
@@ -130,6 +150,5 @@
         </entry>
       </map>
     </option>
-    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
