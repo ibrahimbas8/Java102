@@ -2,24 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2b7a7b1d-7b08-4dff-9290-842c7e2121c8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/company/Accoount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/AccountManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/AccountType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/Address.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/AddressManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/AuthenticationStatus.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/BusinessAddress.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/CarInsurance.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/Enterprise.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/HealthInsurance.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/HomeAddress.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/Individual.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/Insurance.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/InvalidAuthenticationException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/Login.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/ResidenceInsurance.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/TravelInsurance.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/User.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
